@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "new test",
+      "body": "testing once again just to see if the error is fixed",
+      "datetime": "October 07, 2024 10:16:51 AM",
+      "lastEdited": "October 07, 2024 10:19:48 AM",
+      "wordCount": 11
+    },
+    {
+      "id": "2",
+      "title": "reviewing again",
+      "body": "reviewing once again",
+      "datetime": "October 07, 2024 10:17:23 AM",
+      "lastEdited": ""
+    },
+    {
+      "id": "11",
+      "title": "A new post",
+      "body": "this is a new post",
+      "datetime": "October 07, 2024 10:19:28 AM",
+      "lastEdited": ""
+    }
+  ]
+}
